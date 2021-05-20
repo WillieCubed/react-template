@@ -1,0 +1,3 @@
+# Ignore Service Worker automatically generated files
+public/workbox-*
+public/sw*
